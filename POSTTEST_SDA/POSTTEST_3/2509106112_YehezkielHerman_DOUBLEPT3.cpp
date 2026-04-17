@@ -25,7 +25,6 @@ int front = -1, rear = -1;
 
 Tiket riwayat[MAX];
 int top = -1;
-
 Tiket redoStack[MAX];
 int topRedo = -1;
 
